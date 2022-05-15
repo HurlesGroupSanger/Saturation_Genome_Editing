@@ -357,20 +357,20 @@ assign(out_dds, dds, envir = .GlobalEnv)
 lapply (c(1,2,4,5,6,7,8,10,11,12,13,14,15,16,17), function(x) {
 read_annotation(sg=1,e=x)
 load_count(sg=1,exon=x)
-#sample is a vector that indicate which row to be include in the raw count file. It might be a bit confusing. Require manual checking for the column included which should be the same as the annotation (coldata) file.
-run_deseq2(sg=1,exon=x,sample=c(1:15))
+#sample is a vector that indicate which row to be include in the raw count file. It might be a bit confusing. Require manual checking for the column included which should be the same as the annotation (coldata) file. sample c(13:15) are the Day 15 sample. Therefore, by setting c(1:12), we exclude the Day 15 samples
+run_deseq2(sg=1,exon=x,sample=c(1:12))
 })
 
 lapply (c(3), function(x) {
 read_annotation(sg=1,e=x)
 load_count(sg=1,exon=x)
-run_deseq2(sg=1,exon=x,sample=c(2:15))
+run_deseq2(sg=1,exon=x,sample=c(2:12))
 })
 
 lapply (c(9), function(x) {
 read_annotation(sg=1,e=x)
 load_count(sg=1,exon=x)
-run_deseq2(sg=1,exon=x,sample=c(1,3:15))
+run_deseq2(sg=1,exon=x,sample=c(1,3:12))
 })
 
 #Combine rate_selected
@@ -381,14 +381,14 @@ full_table1 <- mget(ls(pattern = "*sg1_rate_selected")) %>% bind_rows()
 lapply (c(1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17), function(x) {
 read_annotation(sg=2,e=x)
 load_count(sg=2,exon=x)
-run_deseq2(sg=2,exon=x,sample=c(1:15))
+run_deseq2(sg=2,exon=x,sample=c(1:12))
 })
 
 
 lapply (c(9), function(x) {
 read_annotation(sg=2,e=x)
 load_count(sg=2,exon=x)
-run_deseq2(sg=2,exon=x,sample=c(1,4:15))
+run_deseq2(sg=2,exon=x,sample=c(1,4:12))
 })
 
 #Combine rate_selected
