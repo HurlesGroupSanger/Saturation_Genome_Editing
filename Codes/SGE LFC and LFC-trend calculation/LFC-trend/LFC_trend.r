@@ -423,4 +423,5 @@ sg1_sg2_combined_annotated2 <- full_annotation %>% left_join(sg1_sg2_combined2, 
 
 clean_sg1_sg2_combined_annotated2 <- sg1_sg2_combined_annotated2 %>% filter(BH_FDR != "NA")
 
+#Main output table for the subsquent analysis
 write.table(clean_sg1_sg2_combined_annotated2 ,sep="\t",file=paste0("sg1and2_combined2.txt"), col.names=NA)
