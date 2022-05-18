@@ -1,4 +1,4 @@
-# HAP1 Transfection Protocol (x-fect)
+# HAP1 Transfection Protocol (Xfect)
 
 ## Material
 1) X-fect (Takara 6316318)
@@ -24,10 +24,10 @@ Aim to have 80% confluent, well distributed cells for transfection the next day.
 
 ### For puro+ plasmid transfection
 ### <ins> Day 1 </ins>
-Change fresh medium (IMDM+10%FBS) with 3ug/mL puro (and 10ug/mL Blast, if this is the Cas9 + HAP1 cell) after 24hr of transfection.
+Change fresh medium (IMDM+10%FBS) with 3ug/mL puro (and 10ug/mL Blast, if this is the Cas9+ HAP1 cell) after 24hr of transfection.
 
 ### <ins> Day 2 </ins>
-Change fresh medium (IMDM+10%FBS) with 3ug/mL puro (and 10ug/mL Blast, if this is the Cas9 + HAP1 cell) after 24hr of transfection.
+Change fresh medium (IMDM+10%FBS) with 3ug/mL puro (and 10ug/mL Blast, if this is the Cas9+ HAP1 cell) after 24hr of transfection.
 
 ### <ins> Day 3 </ins>
 Passage the 12-well plate to 2x T150 flasks.
