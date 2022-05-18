@@ -1,8 +1,8 @@
 # GFP transfection by Neon electroporation in Hap1 cells
 
 ### Material
-Hap1 cells (Clone A5, Cas9+ Lig4-) </br>
-Hap1 media (IMDM + 10% FBS) w/o antibiotics (IMDM (Life Tech, 12440053 or 21980065), Heat-inactivated FBS (Gibco, 10500-064)) </br>
+HAP1 cells (Clone A5, Cas9+ Lig4-) </br>
+HAP1 media (IMDM + 10% FBS) w/o antibiotics (IMDM (Life Tech, 12440053 or 21980065), Heat-inactivated FBS (Gibco, 10500-064)) </br>
 TrypLE Express (Gibco, 12604013) </br>
 PBS(-/-) </br>
 Neon™ Transfection System incl. Neon Pipette </br>
