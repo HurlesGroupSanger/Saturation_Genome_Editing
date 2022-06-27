@@ -19,7 +19,7 @@ Sterile 1.5ml tubes </br>
 6.	Centrifuge 200rcf for 3 minutes
 7.	Aspirate media and re-suspend cell pellet in 5ml of PBS(-/-)
 8.	Centrifuge 200rcf for 3 minutes
-9.	Aspirate PBS and re-suspend cells in appropriate volume of buffer R (ie 120ul per reaction for 6wp*)
+9.	Aspirate PBS and re-suspend cells in appropriate volume of buffer R (ie 120ul per reaction for 6wp*) Note: for HAP1, resuspend 4M cell per 100uL buffer R. if needed, resuspend up to 6M cell per 100uL buffer R.
 10.	Transfer 120ul cell suspension to a sterile 1.5ml tube
 11.	Add required amount of plasmid (eg. use 6ug pMAX GFP per 100ul reaction)
 12.	Carefully pipette cell suspension to mix using a p200 pipette (do NOT mix with Neon pipette)
