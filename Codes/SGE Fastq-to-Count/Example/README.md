@@ -1,0 +1,1 @@
+These are the scripts generated from the `bsub_xxx` script and the `demultiplex.txt` file. If you did not submit the job by using `-s` flag, you can submit the job with these scripts, `cat xx.sh | bsub`

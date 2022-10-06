@@ -1,0 +1,4 @@
+Name	"Directory (no ""/"" at the end)"	Read1	Read2	Exon	5'constantseq	3'constantseq	comment(will_not_be_used)
+SGE_1167590637_Rep1_CASM135_Day11	/lustre/scratch119/humgen/teams/hurles/users/hk5/walk420/fastq2/testing	/nfs/users/nfs_h/hk5/lustre/walk420/fastq2/Sample1_D11_A_S73_L001_R1_001.fastq.gz	NA	CASM135	CACATCAATGAGGCGGGC	GTGGCAGCAGGGTACCAG	NA
+SGE_1167590637_Rep2_CASM135_Day11	/lustre/scratch119/humgen/teams/hurles/users/hk5/walk420/fastq2/testing	/nfs/users/nfs_h/hk5/lustre/walk420/fastq2/Sample1_D11_B_S85_L001_R1_001.fastq.gz	NA	CASM135	CACATCAATGAGGCGGGC	GTGGCAGCAGGGTACCAG	NA
+SGE_1167590637_Rep3_CASM135_Day11	/lustre/scratch119/humgen/teams/hurles/users/hk5/walk420/fastq2/testing	/nfs/users/nfs_h/hk5/lustre/walk420/fastq2/Sample1_D11_C_S2_L001_R1_001.fastq.gz	NA	CASM135	CACATCAATGAGGCGGGC	GTGGCAGCAGGGTACCAG	NA
