@@ -2,6 +2,9 @@
 
 Script for Visualization of SGE (specific for DDX3X). It used codondeletion, ATCG. 
 
+This is the code for FigureS3 and Figure S6 in the paper "Saturation genome editing of DDX3X clarifies pathogenicity of germline and
+somatic variation".
+
 Hard coded line:
 
 1) Line 8: change the path
