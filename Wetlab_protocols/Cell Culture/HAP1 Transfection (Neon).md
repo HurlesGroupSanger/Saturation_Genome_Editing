@@ -1,6 +1,6 @@
 # GFP transfection by Neon electroporation in Hap1 cells
 
-### Noted: We developed this protocol after we have completed the DDX3X project (doi:10.1101/2022.06.10.22276179)
+### Note: We developed this protocol after we have completed the DDX3X project (doi:10.1101/2022.06.10.22276179)
 
 ### Material
 HAP1 cells (Clone A5, Cas9+ Lig4-) </br>
