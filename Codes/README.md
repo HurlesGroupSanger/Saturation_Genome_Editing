@@ -3,7 +3,7 @@ Codes used in DDX3X SGE analysis.
 This code is for reproducing the analysis in "Saturation genome editing of DDX3X clarifies pathogenicity of germline and
 somatic variation". 
 
-Preprint:medRxiv (2022), doi:10.1101/2022.06.10.22276179
+Preprint:medRxiv (2022), [doi:10.1101/2022.06.10.22276179](https://www.medrxiv.org/content/10.1101/2022.06.10.22276179v1)
 
 We first generate the oligos library with the code in [SGE oligo generation](https://github.com/HurlesGroupSanger/Saturation_Genome_Editing/tree/main/Codes/SGE%20oligo%20generation).
 
