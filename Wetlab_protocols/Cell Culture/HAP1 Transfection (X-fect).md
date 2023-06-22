@@ -1,5 +1,7 @@
 # HAP1 Transfection Protocol (Xfect)
 
+### Note: We used this protocol for the DDX3X project (doi:10.1101/2022.06.10.22276179)
+
 ## Material
 1) X-fect (Takara 6316318)
 2) Maxi-prep plasmid
