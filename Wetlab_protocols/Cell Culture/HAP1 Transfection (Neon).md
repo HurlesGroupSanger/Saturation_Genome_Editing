@@ -1,5 +1,7 @@
 # GFP transfection by Neon electroporation in Hap1 cells
 
+### Noted: We developed this protocol after we have completed the DDX3X project (doi:10.1101/2022.06.10.22276179)
+
 ### Material
 HAP1 cells (Clone A5, Cas9+ Lig4-) </br>
 HAP1 media (IMDM + 10% FBS) w/o antibiotics (IMDM (Life Tech, 12440053 or 21980065), Heat-inactivated FBS (Gibco, 10500-064)) </br>
